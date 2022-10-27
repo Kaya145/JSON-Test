@@ -1,0 +1,16 @@
+[
+    {
+        "meno": "Murko",
+        "rasa": "macka",
+        "oblubeneJedlo": "Whiskas"},
+    {
+        "meno": "Fuzik",
+        "rasa": "macka",
+        "oblubeneJedlo": "mys"
+    },
+    {
+        "meno": "Achilles",
+        "rasa": "macka",
+        "oblubeneJedlo": "mrkva"
+    }
+]
